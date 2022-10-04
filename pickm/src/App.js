@@ -12,6 +12,7 @@ function App() {
         <p>
           Muscle memory trying to flex.<br></br>
           time to upload(push) the changes I made to my github on the wBranch.
+          Now I will commit changes to branch wBranch to my git repo!!
         </p>
         <a
           className="App-link"
