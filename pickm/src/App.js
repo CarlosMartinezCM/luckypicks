@@ -10,7 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Muscle memory trying to flex.
+          Muscle memory trying to flex.<br></br>
+          Now I will commit changes to branch wBranch to my git repo!!
         </p>
         <a
           className="App-link"
