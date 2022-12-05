@@ -1,0 +1,1 @@
+to edit initial home page go to pickm/src/app.js
